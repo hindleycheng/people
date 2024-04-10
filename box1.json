@@ -1,6 +1,6 @@
 {
 "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
-"lives": [{"name": "live","type": 0,"url":"https://gitee.com/hindleycheng/tv/raw/master/yourtv","epg": "http://epg.51zmt.top:8000/e.xml"}],
+"lives": [{"name": "live","type": 0,"url":"https://raw.githubusercontent.com/hindleycheng/people/main/tvbox","epg": "http://epg.51zmt.top:8000/e.xml"}],
 
 "sites":[
 
